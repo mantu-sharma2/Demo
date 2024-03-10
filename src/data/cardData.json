@@ -1,0 +1,49 @@
+[
+    {
+        "id": 101,
+      "imageLink": "https://picsum.photos/300/200",
+      "date": "2022-08-15",
+      "time": "10:00 AM",
+      "topic": "English",
+      "description": "Rakuten Mobile is a Japanese telecommunications company that offers mobile and internet services. They operate a virtual network that utilizes existing infrastructure from other providers. Rakuten Mobile aims to provide affordable and high-quality services to customers through innovative technology and cost-efficient practices. They have expanded their offerings to include 5G services and are focused on enhancing connectivity and digital experiences for their users. Rakuten Mobile is positioning itself as a disruptive player in the telecommunications industry, challenging traditional models and striving for customer satisfaction."
+    },
+    {
+        "id": 102,
+      "imageLink": "https://picsum.photos/300/200",
+      "date": "2022-08-16",
+      "time": "2:30 PM",
+      "topic": "Japanese",
+      "description": "楽天モバイルは、モバイルおよびインターネットサービスを提供する日本の通信会社です。彼らは、他のプロバイダーの既存のインフラストラクチャを利用する仮想ネットワークを運用しています。楽天モバイルは、革新的なテクノロジーとコスト効率の高い実践を通じて、顧客に手頃な価格で高品質なサービスを提供することを目指しています。同社は 5G サービスを含むようにサービスを拡張し、ユーザーの接続性とデジタル エクスペリエンスを強化することに重点を置いています。楽天モバイルは、通信業界における破壊的プレーヤーとしての地位を確立し、従来のモデルに挑戦し、顧客満足度の向上に努めています。"
+    },
+    {
+        "id": 103,
+      "imageLink": "https://picsum.photos/300/200",
+      "date": "2022-08-17",
+      "time": "6:00 PM",
+      "topic": "Chinese",
+      "description": "乐天移动是一家提供移动和互联网服务的日本电信公司。他们运营的虚拟网络利用其他提供商的现有基础设施。 Rakuten Mobile 旨在通过创新技术和具有成本效益的实践为客户提供价格实惠且高质量的服务。他们扩大了产品范围，将 5G 服务纳入其中，并专注于增强用户的连接性和数字体验。乐天移动将自己定位为电信行业的颠覆性参与者，挑战传统模式并努力提高客户满意度。"
+    },{
+      "id": 101,
+    "imageLink": "https://picsum.photos/300/200",
+    "date": "2022-08-15",
+    "time": "10:00 AM",
+    "topic": "English",
+    "description": "Rakuten Mobile is a Japanese telecommunications company that offers mobile and internet services. They operate a virtual network that utilizes existing infrastructure from other providers. Rakuten Mobile aims to provide affordable and high-quality services to customers through innovative technology and cost-efficient practices. They have expanded their offerings to include 5G services and are focused on enhancing connectivity and digital experiences for their users. Rakuten Mobile is positioning itself as a disruptive player in the telecommunications industry, challenging traditional models and striving for customer satisfaction."
+  },
+  {
+      "id": 102,
+    "imageLink": "https://picsum.photos/300/200",
+    "date": "2022-08-16",
+    "time": "2:30 PM",
+    "topic": "Japanese",
+    "description": "楽天モバイルは、モバイルおよびインターネットサービスを提供する日本の通信会社です。彼らは、他のプロバイダーの既存のインフラストラクチャを利用する仮想ネットワークを運用しています。楽天モバイルは、革新的なテクノロジーとコスト効率の高い実践を通じて、顧客に手頃な価格で高品質なサービスを提供することを目指しています。同社は 5G サービスを含むようにサービスを拡張し、ユーザーの接続性とデジタル エクスペリエンスを強化することに重点を置いています。楽天モバイルは、通信業界における破壊的プレーヤーとしての地位を確立し、従来のモデルに挑戦し、顧客満足度の向上に努めています。"
+  },
+  {
+      "id": 103,
+    "imageLink": "https://picsum.photos/300/200",
+    "date": "2022-08-17",
+    "time": "6:00 PM",
+    "topic": "Chinese",
+    "description": "乐天移动是一家提供移动和互联网服务的日本电信公司。他们运营的虚拟网络利用其他提供商的现有基础设施。 Rakuten Mobile 旨在通过创新技术和具有成本效益的实践为客户提供价格实惠且高质量的服务。他们扩大了产品范围，将 5G 服务纳入其中，并专注于增强用户的连接性和数字体验。乐天移动将自己定位为电信行业的颠覆性参与者，挑战传统模式并努力提高客户满意度。"
+  }
+  ]

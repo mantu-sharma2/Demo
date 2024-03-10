@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+#title {
+  margin-top: 20px;
+}
+
+.CardContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  margin: 40px;
+}
+
+.Card {
+  padding: 20px;
+  background-color: #f6e2e2;
+}
